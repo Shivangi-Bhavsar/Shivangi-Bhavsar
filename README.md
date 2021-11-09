@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivangi-Bhavsar
 - 👀 I’m interested in Data Analytics projects  
-- 🌱 I’m currently learning Pythong , SQL , R and Tableu.
+- 🌱 I’m currently learning Python , SQL , R and Tableu.
 - 💞️ I’m looking to collaborate on Python programming 
 - 📫 How to reach me @shivangi.pace@gmail.com
 
